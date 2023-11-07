@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+A Princess Connect Re:Dive player...
 <!--
 **mint-pcr/mint-pcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
